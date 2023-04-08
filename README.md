@@ -15,4 +15,4 @@ The Alpha Beta Pruning algorithm is an optimization of the Minimax algorithm tha
 ##Expectimax
 The Expectimax algorithm is a decision-making algorithm that determines the best move for a player by considering all possible future states of the game and their probabilities. This algorithm is used when there is uncertainty in the game, such as in games with chance elements or hidden information. In this implementation, the algorithm calculates the expected value of each move by taking the average of the possible outcomes weighted by their probabilities.
 
-![GUI](https://example.com/image.jpg](https://github.com/annajanenazarian/state-space-vaccum-cleaner/blob/main/two.png)
+![GUI](https://github.com/annajanenazarian/state-space-vaccum-cleaner/blob/main/two.png)
